@@ -8,7 +8,7 @@
     "owner-verification":"sungdev00@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID"drakonis~I2tglAra#nk5A2CvDjvSF73Qn7juSkA5YkZD_PIbVSoAHW-ZQe2k: {
         "description": "Put your SESSION_ID here. It starts with drakonis~",
         "value":"",
         "required": true
